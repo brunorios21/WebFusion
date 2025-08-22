@@ -1,0 +1,27 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div class="text-center my-5">
+    <h2>Contáctanos</h2>
+    <p>¿Tienes alguna pregunta o te gustaría saber más? ¡Déjanos tu mensaje y nos pondremos en contacto contigo!</p>
+</div>
+
+<form action="/contacto" method="POST" class="row g-3">
+    <div class="col-md-6">
+        <label for="nombre" class="form-label">Nombre</label>
+        <input type="text" class="form-control" id="nombre" name="nombre" required>
+    </div>
+    <div class="col-md-6">
+        <label for="email" class="form-label">Correo electrónico</label>
+        <input type="email" class="form-control" id="email" name="email" required>
+    </div>
+    <div class="col-12">
+        <label for="mensaje" class="form-label">Mensaje</label>
+        <textarea class="form-control" id="mensaje" name="mensaje" rows="4" required></textarea>
+    </div>
+    <div class="col-12">
+        <button type="submit" class="btn btn-success">Enviar Mensaje</button>
+    </div>
+</form>
+{% endblock %}
+
