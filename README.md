@@ -1,4 +1,4 @@
-# 🌐 WebFusion
+# WebFusion
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.10-blue?logo=python&style=for-the-badge" />
@@ -13,7 +13,7 @@
 
 ---
 
-## 📖 Descripción
+##Descripción
 **WebFusion** es una aplicación web desarrollada con **Python**, **HTML** y **CSS**, que integra **diseño web, desarrollo de aplicaciones** y **marketing digital**.  
 Ofrecemos soluciones personalizadas que combinan **creatividad, tecnología y análisis de datos**, garantizando un impacto real y medible en el entorno digital.
 
@@ -31,7 +31,7 @@ Ofrecemos soluciones personalizadas que combinan **creatividad, tecnología y an
 
 ---
 
-## 🛠️ Tecnologías utilizadas
+## Tecnologías utilizadas
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.10-blue?logo=python" />
   <img src="https://img.shields.io/badge/HTML5-orange?logo=html5" />
@@ -40,7 +40,7 @@ Ofrecemos soluciones personalizadas que combinan **creatividad, tecnología y an
 
 ---
 
-## ⚙️ Instalación y uso
+## Instalación y uso
 
 <pre>
 1️⃣ Clonar el repositorio
@@ -59,10 +59,10 @@ flask run
 
 ---
 
-## 📱 Contacto
+##  Contacto
 
 <div align="center" style="margin-top:10px;">
-  <a href="https://www.bing.com/search?filters=ufn%3a%22LinkedIn%22+sid%3a%22401e29b7-e564-7d0a-69dd-4aeff23c198d%22&qs=MB&pq=link&sk=CSYN1&sc=12-4&pglt=297&q=linkedin&cvid=b29a6edf7a9d457d9af44de0175da11d&gs_lcrp=EgRlZGdlKgYIARAuGEAyBggAEEUYOTIGCAEQLhhAMgYIAhAAGEAyBggDEAAYQDIGCAQQABhAMgYIBRAuGEAyBggGEAAYQDIGCAcQABhAMgYICBAAGEDSAQgyMDYzajBqMagCALACAA&FORM=ANNTA1&PC=U531" target="_blank">
+  <a href="https://www.linkedin.com/in/bruno-rios-576016328/" target="_blank">
     <button style="background: linear-gradient(90deg,#0077B5,#00c6ff); color:white; padding:12px 24px; border:none; border-radius:12px; cursor:pointer; font-weight:bold; margin:4px;">
       LinkedIn
     </button>
